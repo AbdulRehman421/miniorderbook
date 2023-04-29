@@ -816,8 +816,7 @@ class _MultiSelectCheckListScreenState
                                                               _searchResult[index]
                                                                   .productName,
                                                               style: TextStyle(
-                                                                  fontSize: 13,fontWeight: FontWeight.bold),
-                                                            ),
+                                                                  fontSize: 13,fontWeight: FontWeight.bold)),
                                                           ),
                                                           SizedBox(
                                                             width: 3,
