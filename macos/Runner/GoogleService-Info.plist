@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>884473393144-vlif9ageb43rjeff2tvqlbs0lquo88mr.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.884473393144-vlif9ageb43rjeff2tvqlbs0lquo88mr</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBXrkSqXdoLWOwmio4mMhelzB-icvRm1_o</string>
+	<key>GCM_SENDER_ID</key>
+	<string>884473393144</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.shebaschool.minipos.minipos</string>
+	<key>PROJECT_ID</key>
+	<string>miniorderbook</string>
+	<key>STORAGE_BUCKET</key>
+	<string>miniorderbook.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:884473393144:ios:3ad1b744674643824f700d</string>
+</dict>
+</plist>
